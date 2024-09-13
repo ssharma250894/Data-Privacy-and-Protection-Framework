@@ -4,10 +4,15 @@ Core Components:
 Functions: These are high-level activities that help organizations manage privacy risks. The five main functions are:
 
 Identify-P: Understand what data you have and the privacy risks.
+
 Govern-P: Set up governance structures to manage these risks.
+
 Control-P: Implement measures to manage and protect data.
+
 Communicate-P: Ensure clear communication about data practices.
+
 Protect-P: Safeguard data to prevent privacy incidents.
+
 Categories and Subcategories: These break down each function into specific activities and outcomes. For example, under Identify-P, you might catalog all data processing activities and assess the risks associated with them.
 
 Profiles:
